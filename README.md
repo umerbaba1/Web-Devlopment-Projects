@@ -25,3 +25,4 @@ Try it : https://nitish6174.github.io/resume-generator/
 - Note: As this creates a new PDF file, you may have to see permission settings or run with sudo on terminal.
 
 **Note** : Use Google Chrome
+**UMER**
